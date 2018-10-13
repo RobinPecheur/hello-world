@@ -9,3 +9,5 @@ Step 1 create repository (check)
 	Create repository
     
 Step 2 Create a branch
+
+go to the repository hello-world > click the drop down "branch: master" > branch name : readme-edits > Create branch 
