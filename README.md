@@ -8,6 +8,6 @@ Step 1 create repository (check)
 	name: hello-world / description Apprentissage de git / initialize this repository with a read me activé >
 	Create repository
     
-Step 2 Create a branch
+Step 2 Create a branch (check)
 
 go to the repository hello-world > click the drop down "branch: master" > branch name : readme-edits > Create branch 
